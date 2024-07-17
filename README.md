@@ -2,7 +2,7 @@
 
 # **Full-Stack Developer 👋**  
 
-### Hi, I'm Mukhammed. A passionate Full-Stack Developer specializing in React and Spring.
+#### Hi, I'm Mukhammed. A passionate Full-Stack Developer specializing in React and Spring.
 
 # Skills
 
