@@ -10,7 +10,7 @@ About Me 🪄<br><br>
 💬 Ask me about: State management (Redux vs Zustand), Tailwind CSS vs MUI/AntD/Shadcn, React Hook Form magic, or how to ship a feature branch with Docker in under 5 minutes.<br><br>
 
 🧮 LeetCode stats:<br>
-<img src="https://leetcard.jacoblin.cool/<your_username>?theme=light&border=0&ext=heatmap" alt="LeetCode Stats" /><br><br>
+<img src="https://leetcard.jacoblin.cool/Mmm_D?theme=light&border=0&ext=heatmap" alt="LeetCode Stats" /><br><br>
 
 ⚡ Fun fact: My CS GO 2 aim seems to get better every time I refactor legacy code—still investigating the correlation! 🎮<br><br>
 
@@ -19,7 +19,9 @@ About Me 🪄<br><br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mujammed_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mujammed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukhammedmarat04@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mujammed_04) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mujammed) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukhammedmarat04@gmail.com) 
 
 
 # 💻 Tech Stack:
